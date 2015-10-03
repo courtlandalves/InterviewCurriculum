@@ -1,4 +1,4 @@
-## OOP:
+## OOP
 
 * [5 JS homework assignments (no solutions)](https://gist.github.com/stdclass) - These look like pretty cool problems and they're pretty challenging, too bad no answers
 
