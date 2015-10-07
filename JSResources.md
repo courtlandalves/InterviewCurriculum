@@ -14,3 +14,9 @@
 
 * [Interview Cake problem on anonymous functions](https://www.interviewcake.com/question/python/js-whats-wrong) - Approved by GVB!
 
+## Scope
+
+* [Interview Cake problem for scope](https://www.interviewcake.com/question/python/js-scope)
+
+
+
